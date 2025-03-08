@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:basalt_blobs",
+  "feature": "lostcrafters:sand_blobs",
   "placement": [
     {
       "type": "minecraft:count",
@@ -13,10 +13,10 @@
       "height": {
         "type": "minecraft:uniform",
         "max_inclusive": {
-          "absolute": -32
+          "absolute": -145
         },
         "min_inclusive": {
-          "absolute": -134
+          "absolute": -255
         }
       }
     },

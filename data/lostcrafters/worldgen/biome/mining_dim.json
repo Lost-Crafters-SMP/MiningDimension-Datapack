@@ -18,6 +18,8 @@
     [],
     [],
     [
+      "lostcrafters:custom/sand_blobs",
+      "lostcrafters:custom/mud_blobs",
       "lostcrafters:minecraft/basalt_blobs",
       "lostcrafters:minecraft/blackstone_blobs",
       "lostcrafters:minecraft/disk_clay",

@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:basalt_blobs",
+  "feature": "lostcrafters:mud_blobs",
   "placement": [
     {
       "type": "minecraft:count",
