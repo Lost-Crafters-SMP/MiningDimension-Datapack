@@ -11,17 +11,13 @@
     [],
     [],
     [
-"lostcrafters:minecraft/amethyst_geode",
-"lostcrafters:custom/glowstone_geode"
-
+      "lostcrafters:minecraft/amethyst_geode",
+      "lostcrafters:custom/glowstone_geode"
     ],
     [],
     [],
     [],
     [
-      "lostcrafters:create/striated_ores_nether",
-      "lostcrafters:create/striated_ores_overworld",
-      "lostcrafters:create/zinc_ore",
       "lostcrafters:minecraft/basalt_blobs",
       "lostcrafters:minecraft/blackstone_blobs",
       "lostcrafters:minecraft/disk_clay",

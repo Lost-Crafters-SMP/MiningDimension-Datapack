@@ -1,59 +1,20 @@
 {
-  "carvers": {},
-  "downfall": 0,
-  "effects": {
-    "additions_sound": {
-      "sound": "minecraft:ambient.warped_forest.additions",
-      "tick_chance": 0.0111
-    },
-    "ambient_sound": "minecraft:ambient.warped_forest.loop",
-    "fog_color": 1705242,
-    "mood_sound": {
-      "block_search_extent": 8,
-      "offset": 2,
-      "sound": "minecraft:ambient.warped_forest.mood",
-      "tick_delay": 6000
-    },
-    "music": {
-      "max_delay": 24000,
-      "min_delay": 12000,
-      "replace_current_music": false,
-      "sound": "minecraft:music.nether.warped_forest"
-    },
-    "particle": {
-      "options": {
-        "type": "minecraft:warped_spore"
-      },
-      "probability": 0.01428
-    },
-    "sky_color": 7254527,
-    "water_color": 4159204,
-    "water_fog_color": 329011
-  },
-  "features": [
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [
-      "minecraft:glowstone_extra",
-      "minecraft:glowstone",
-      "minecraft:ore_magma",
-      "minecraft:ore_gravel_nether",
-      "minecraft:ore_blackstone",
-      "minecraft:ore_gold_nether",
-      "minecraft:ore_quartz_nether",
-      "minecraft:ore_ancient_debris_large",
-      "minecraft:ore_debris_small"
-    ],
-    [],
-    []
-  ],
-  "has_precipitation": false,
-  "spawn_costs": {},
-  "spawners": {},
-  "temperature": 2
-}
+    "ambient_light": 1,
+    "bed_works": false,
+    "coordinate_scale": 1,
+    "fixed_time": 6000,
+    "effects": "minecraft:overworld",
+    "has_ceiling": false,
+    "has_raids": false,
+    "has_skylight": false,
+    "height": 512,
+    "infiniburn": "#minecraft:infiniburn_overworld",
+    "logical_height": 512,
+    "min_y": -256,
+    "monster_spawn_block_light_limit": 0,
+    "monster_spawn_light_level": 0,
+    "natural": false,
+    "piglin_safe": false,
+    "respawn_anchor_works": false,
+    "ultrawarm": false
+  }
