@@ -9,11 +9,11 @@
         }
       },
       "state": {
-        "Name": "minecraft:sand",
+        "Name": "minecraft:purpur_block",
         "Properties": {}
       },
       "target": {
-        "Name": "minecraft:stone"
+        "Name": "minecraft:end_stone"
       }
     }
   }

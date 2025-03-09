@@ -19,6 +19,9 @@
     [],
     [
       "lostcrafters:custom/sand_blobs",
+      "lostcrafters:custom/sand_blobs_end",
+      "lostcrafters:custom/purpur_blobs",
+      "lostcrafters:custom/clay_blobs",
       "lostcrafters:custom/mud_blobs",
       "lostcrafters:minecraft/basalt_blobs",
       "lostcrafters:minecraft/blackstone_blobs",

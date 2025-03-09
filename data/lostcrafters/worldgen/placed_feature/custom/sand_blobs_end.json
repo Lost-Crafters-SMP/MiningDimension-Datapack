@@ -1,9 +1,9 @@
 {
-  "feature": "lostcrafters:sand_blobs",
+  "feature": "lostcrafters:sand_blobs_end",
   "placement": [
     {
       "type": "minecraft:count",
-      "count": 5
+      "count": 20
     },
     {
       "type": "minecraft:in_square"
@@ -13,10 +13,10 @@
       "height": {
         "type": "minecraft:uniform",
         "max_inclusive": {
-          "absolute": 186
+          "absolute": -145
         },
         "min_inclusive": {
-          "absolute": 80
+          "absolute": -255
         }
       }
     },
