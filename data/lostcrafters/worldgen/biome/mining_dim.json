@@ -18,6 +18,10 @@
     [],
     [],
     [
+      "lostcrafters:create/striated_ores_nether",
+      "lostcrafters:create/striated_ores_overworld",
+      "lostcrafters:create/tin_ore",
+      "lostcrafters:create/zinc_ore",
       "lostcrafters:custom/sand_blobs",
       "lostcrafters:custom/sand_blobs_end",
       "lostcrafters:custom/purpur_blobs",
