@@ -1,9 +1,9 @@
 {
-  "feature": "minecraft:ore_coal",
+  "feature": "lostcrafters:ore_emerald_buried",
   "placement": [
     {
       "type": "minecraft:count",
-      "count": 70
+      "count": 100
     },
     {
       "type": "minecraft:in_square"
@@ -11,12 +11,12 @@
     {
       "type": "minecraft:height_range",
       "height": {
-        "type": "minecraft:uniform",
+        "type": "minecraft:trapezoid",
         "max_inclusive": {
-          "absolute": 288
+          "absolute": 200
         },
         "min_inclusive": {
-          "absolute": 139
+          "absolute": -16
         }
       }
     },
